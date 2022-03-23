@@ -1,0 +1,8 @@
+# Deliveroo Clone Backend
+
+A training project consisting in cloning a Deliveroo page.
+This is the backend part with only one route containing all the necessary restaurant informations (a huge object).
+
+### Frontend : https://github.com/Julien-Allard/react-deliveroo-clone
+
+### Try it : https://react-deliveroo-julalldev.netlify.app/
