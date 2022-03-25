@@ -8,5 +8,3 @@ This is the backend part with only one route containing all the necessary restau
 - Express.
 
 ### Frontend : https://github.com/Julien-Allard/react-deliveroo-clone
-
-### Try it : https://react-deliveroo-julalldev.netlify.app/
